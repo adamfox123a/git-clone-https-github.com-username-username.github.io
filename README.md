@@ -1,3 +1,2 @@
-# fox1234
-adam1234
-hello
+cd username.github.io
+echo "Hello World" > index.html
